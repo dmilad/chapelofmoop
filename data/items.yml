@@ -1,0 +1,48 @@
+title: "What People Are Saying"
+content: |
+style: "style3 small onscroll-fade-in"
+items:
+  # feature item loop
+  - name: ""
+    content: ""A truly spiritual experience.""
+    style: "solid style1 minor fa-quote-right"
+
+  # feature item loop
+  - name: ""
+    content: ""The Chapel blessed my sequins and my soul.""
+    style: "solid style1 minor fa-quote-right"
+
+  # feature item loop
+  - name: ""
+    content: ""I came for the MOOP, I stayed for the enlightenment.""
+    style: "solid style1 minor fa-quote-right"
+
+  # feature item loop
+  - name: ""
+    content: ""Best confessional on the playa.""
+    style: "solid style1 minor fa-quote-right"
+
+  # feature item loop
+  - name: ""
+    content: ""Deeply moving and hilarious at the same time.""
+    style: "solid style1 minor fa-quote-right"
+
+  # feature item loop
+  - name: ""
+    content: ""My feather boa found redemption here.""
+    style: "solid style1 minor fa-quote-right"
+
+  # feature item loop
+  - name: ""
+    content: ""Sacred, silly, and absolutely necessary.""
+    style: "solid style1 minor fa-quote-right"
+
+  # feature item loop
+  - name: ""
+    content: ""The Chapel of MOOP saved my burn.""
+    style: "solid style1 minor fa-quote-right"
+
+  # feature item loop
+  - name: ""
+    content: ""Hallelujah!""
+    style: "solid style1 minor fa-quote-right"

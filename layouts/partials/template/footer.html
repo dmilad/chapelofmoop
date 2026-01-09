@@ -1,0 +1,15 @@
+<!-- Footer -->
+<footer class="wrapper style1 align-center">
+    <div class="inner">
+        <ul class="icons">
+            {{ range .Site.Params.social }}
+            <li>
+                <a target="_blank" href="{{ .url }}" class="icon brands style2 {{ .icon }}">
+                    <span class="label">{{ .label }}</span>
+                </a>
+            </li>
+            {{ end }}
+        </ul>
+        <p>{{ .Site.Params.copyright }}</p>
+    </div>
+</footer>

@@ -1,0 +1,12 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title: "Visit the Chapel"
+content: |
+  Welcome to the Chapel of MOOP, a sacred space established in 2026 in Black Rock City. Here, every piece of MOOP is honored, blessed, and given new meaning. The Chapel is open 24 hours daily during Burning Man, offering quiet contemplation and joyful celebration.
+  <br />
+  <br />Join us for daily services, confessions of MOOP sins, and blessing ceremonies. All are welcome, regardless of their MOOP history.
+button:
+  label: "Learn More"
+  link: "#"
+image: "images/chapel1.jpg"

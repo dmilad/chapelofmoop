@@ -1,0 +1,24 @@
+title = "Chapel of MOOP"
+theme = "hugo-story"
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+googleAnalytics = ""
+description = "Chapel of MOOP - A Burning Man theme camp"
+logo = "images/chapel_logo.png"
+favicon = true
+
+[params]
+  style = "style1"
+  copyright = "&copy; Chapel of MOOP"
+
+  [params.banner]
+    style = "style1 orient-left fullscreen onload-image-fade-in onload-content-fade-right"
+
+  [[params.social]]
+    icon = "fa-instagram"
+    url = "https://instagram.com/chapelofmoop"
+    label = "Instagram"
+
+  [[params.social]]
+    icon = "fa-envelope"
+    url = "mailto:hello@chapelofmoop.com"
+    label = "Email"

@@ -1,0 +1,14 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+title: "Sacred Services"
+content: |
+  <h3>Daily Blessings</h3>
+  The Chapel of MOOP offers daily blessing ceremonies where MOOP finds spiritual redemption. Bring your MOOP to be sanctified and transformed from matter out of place to matter with purpose.
+  <br/>
+  <br/>
+  <h3>Confessional</h3>
+  Unburden yourself of MOOP-related guilt in our sacred confessional booth. Confess your MOOP sins, receive absolution, and emerge cleansed. All confessions are kept in the strictest confidence.
+button:
+  label: "Learn More"
+  link: "#"
+image: "images/chapel2.jpg"

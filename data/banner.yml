@@ -1,0 +1,20 @@
+####################### Banner #########################
+style: "style1 fullscreen orient-right content-align-center image-position-center onload-image-fade-in onload-content-fade-in"
+title: "Chapel of MOOP"
+subtitle: |
+  <br />A sacred space for contemplation and communion with the playa.
+  <br />Where MOOP finds redemption and purpose.
+  <br />
+  <br />Open 24 hours daily
+  <br />Aug. 24 to Aug. 28, 2026
+  <br />
+  <br />Black Rock City, Nevada
+  <br />
+  <br /><a target="_blank" href="https://www.instagram.com/chapelofmoop/">
+    <img src="images/insta.png" alt="Insta" style="width:30px;height:30px;"></a>
+content: |
+  Welcome to the Chapel
+button:
+  label: "Enter"
+  link: "#first"
+image: "images/chapel_logo.png"

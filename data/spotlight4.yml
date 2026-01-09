@@ -1,0 +1,13 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+title: "What is MOOP?"
+content: |
+  MOOP stands for "Matter Out Of Place" - anything that's not originally of the playa. At the Chapel of MOOP, we believe that even things out of place have sacred purpose and deserve reverence.
+  <br />
+  <br />Through contemplation and ceremony, we transform MOOP from waste to wonder, from trash to treasure, from matter out of place to matter with grace.
+  <br />
+  <br />Leave No Trace, but if you find traces, bring them to us for blessing.
+button:
+  label: "Learn More"
+  link: "https://burningman.org/event/preparation/leaving-no-trace/moop/"
+image: "images/chapel4.jpg"

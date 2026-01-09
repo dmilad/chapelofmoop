@@ -1,0 +1,5 @@
+<section>
+    <span class="icon {{ .style }}"></span>
+    <h3>{{ .name }}</h3>
+    {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+</section>

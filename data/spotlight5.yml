@@ -1,0 +1,11 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title: "Testimonials"
+content: |
+  The Chapel of MOOP has touched the hearts and souls of many playa pilgrims. Read what visitors have said about their sacred MOOP experiences.
+  <br />
+  <br />Want to share your own Chapel story? Find us on the playa and let us know how MOOP has transformed your burn.
+button:
+  label: "Read More"
+  link: "#"
+image: "images/chapel5.jpg"

@@ -1,0 +1,11 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title: "Sacred Offerings"
+content: |
+  The Chapel welcomes offerings of all kinds. Leave your MOOP as a sacred offering, receive a blessing, and take home a relic from our collection. We also offer Chapel merchandise for pilgrims seeking mementos of their spiritual journey.
+  <br />
+  <br />All proceeds support the Chapel's mission to bring meaning to MOOP across the playa.
+button:
+  label: "Shop"
+  link: "#"
+image: "images/chapel3.jpg"
