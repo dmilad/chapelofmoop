@@ -1,48 +1,50 @@
-title: "What People Are Saying"
-content: |
+title : "What People Are Saying"
+content: ""
 style: "style3 small onscroll-fade-in"
 items:
   # feature item loop
-  - name: ""
-    content: ""A truly spiritual experience.""
-    style: "solid style1 minor fa-quote-right"
+  - name : ""
+    content : "“F*ing hilar.”"
+    style : "solid style1 minor fa-quote-right"
 
   # feature item loop
-  - name: ""
-    content: ""The Chapel blessed my sequins and my soul.""
-    style: "solid style1 minor fa-quote-right"
-
+  - name : ""
+    content : "“A collection close to my heart.”"
+    style : "solid style1 minor fa-quote-right"
+    
   # feature item loop
-  - name: ""
-    content: ""I came for the MOOP, I stayed for the enlightenment.""
-    style: "solid style1 minor fa-quote-right"
-
+  - name : ""
+    content : "“They took my fun MOOP and redistributed it to the masses!”"
+    style : "solid style1 minor fa-quote-right"
+    
   # feature item loop
-  - name: ""
-    content: ""Best confessional on the playa.""
-    style: "solid style1 minor fa-quote-right"
-
+  - name : ""
+    content : "“I enjoyed the red tape.”"
+    style : "solid style1 minor fa-quote-right"
+    
   # feature item loop
-  - name: ""
-    content: ""Deeply moving and hilarious at the same time.""
-    style: "solid style1 minor fa-quote-right"
-
+  - name : ""
+    content : "“Very welcoming.”"
+    style : "solid style1 minor fa-quote-right"
+    
   # feature item loop
-  - name: ""
-    content: ""My feather boa found redemption here.""
-    style: "solid style1 minor fa-quote-right"
-
+  - name : ""
+    content : "“I really appreciate the spotlight it puts on MOOP.”"
+    style : "solid style1 minor fa-quote-right"
+    
   # feature item loop
-  - name: ""
-    content: ""Sacred, silly, and absolutely necessary.""
-    style: "solid style1 minor fa-quote-right"
-
+  - name : ""
+    content : "“These guys are totally hilarious.”"
+    style : "solid style1 minor fa-quote-right"
+    
   # feature item loop
-  - name: ""
-    content: ""The Chapel of MOOP saved my burn.""
-    style: "solid style1 minor fa-quote-right"
-
+  - name : ""
+    content : "“A great demonstration of how a small camp can provide interactivity.”"
+    style : "solid style1 minor fa-quote-right"
+    
   # feature item loop
-  - name: ""
-    content: ""Hallelujah!""
-    style: "solid style1 minor fa-quote-right"
+  - name : ""
+    content : |
+      “Out.” 
+      <br/>- <a target="_blank" href="https://brcweekly.com/BRCWeekly2022_int.pdf">BRC Weekly, 2022</a>
+    style : "solid style1 minor fa-quote-right"
