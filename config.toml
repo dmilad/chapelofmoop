@@ -1,24 +1,33 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
 title = "Chapel of MOOP"
 theme = "hugo-story"
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
-googleAnalytics = "G-R13QQH0MXH"
-description = "Chapel of MOOP - A Burning Man theme camp"
+
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
 logo = "images/chapel_logo.png"
 favicon = true
 
+[services]
+  [services.googleAnalytics]
+    ID = "G-R13QQH0MXH"
+
 [params]
-  style = "style1"
-  copyright = "&copy; Chapel of MOOP"
+  description = "Chapel of MOOP"
+  logo = "images/chapel_logo.png"
+  favicon = true
 
-  [params.banner]
-    style = "style1 orient-left fullscreen onload-image-fade-in onload-content-fade-right"
-
-  [[params.social]]
-    icon = "fa-instagram"
-    url = "https://instagram.com/chapelofmoop"
-    label = "Instagram"
-
-  [[params.social]]
-    icon = "fa-envelope"
-    url = "mailto:chapelofmoop@gmail.com"
-    label = "Email"
+[Params.social]
+  github = "https://github.com/dmilad/chapelofmoop"
+  email = "chapelofmoop@gmail.com"
+  instagram = "https://instagram.com/chapelofmoop"
