@@ -1,7 +1,7 @@
 title = "Chapel of MOOP"
 theme = "hugo-story"
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
-googleAnalytics = ""
+googleAnalytics = "G-R13QQH0MXH"
 description = "Chapel of MOOP - A Burning Man theme camp"
 logo = "images/chapel_logo.png"
 favicon = true
