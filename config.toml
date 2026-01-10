@@ -20,5 +20,5 @@ favicon = true
 
   [[params.social]]
     icon = "fa-envelope"
-    url = "mailto:hello@chapelofmoop.com"
+    url = "mailto:chapelofmoop@gmail.com"
     label = "Email"
